@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">recyclerview</string>
+    <string name="app_name">Tutorial 5</string>
+    <string name="menushare_title">title</string>
 </resources>
